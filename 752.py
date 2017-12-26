@@ -32,4 +32,4 @@ class Solution(object):
 if __name__ == '__main__':
     solution = Solution()
     print(solution.openLock(['0201' , '0101' , '0102' , '1212' , '2002'] , '0202'))
-    print(solution.openLock(['0000'] , '0200'))
+    print(solution.openLock(['1002','1220','0122','0112','0121'] , '1200'))
