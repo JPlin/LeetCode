@@ -1,3 +1,5 @@
+# delete and earn
+
 import collections
 class Solution(object):
     def deleteAndEarn(self, nums):
